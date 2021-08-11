@@ -8,7 +8,7 @@ fit in that situation.
 I also list if it's mostly a help during prep time (:book:) or game-time (:game_die:)
 
 Module|Must have (:thumbsup:) or Good to have (:ok_hand:)|Prep time (:book:) or game time (:game_die:)|Comments
-------|-------|-----|------
+------|:-------:|:-----:|------
 [EasyTable](https://raw.githubusercontent.com/BlitzKraig/fvtt-EasyTable/master/module.json)|:ok_hand:|:book:|Allows for easy creation of Rollable tables, e.g. from the rule book or reddit.
 [SocketSettings](https://raw.githubusercontent.com/BlitzKraig/fvtt-SocketSettings/master/module.json)|:ok_hand:|:game_die:|Allows you to help your players by pushing client settings to them.
 [all-goblins-have-names](https://raw.githubusercontent.com/jsabol/all-goblins-have-names/master/module.json)|:ok_hand:|:game_die:|Allows you to have unique names for your mass monsters/mobs. Your players can talk about targeting "Jim" instead of "Warrior 3"
