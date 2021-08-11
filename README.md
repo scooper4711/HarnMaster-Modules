@@ -1,11 +1,7 @@
 # HarnMaster-Modules
-This is a list of the many modules I use for my HârnMaster gameand why I have them 
-enabled. For each module, I list the name, if it's a must-have (:thumbsup:) i.e. 
-I think it's of broad enough  application that pretty much everyone should use it, 
-or good to have (:ok_hand:) - it's situational, but you should look to see if you 
-fit in that situation.
-
-I also list if it's mostly a help during prep time (:book:) or game-time (:game_die:)
+This is a list of the many modules I use for my HârnMaster game. 
+For each module, I list the name, if it's mostly a help during prep time 
+(:book:) or game-time (:game_die:) and my comments on why
 
 # Must-have Modules
 These are the modules which I feel are universal in applicability 
@@ -67,9 +63,9 @@ Module|Prep time (:book:) or game time (:game_die:)|Comments
 
 # Prerequesite modules
 These modules are in my system because other modules require them.
- * [_chatcommands](https://github.com/League-of-Foundry-Developers/Chat-Commands-Lib/releases/latest/download/module.json)|:game_die:|Pre-req for other modules.
- * [colorsettings](https://raw.githubusercontent.com/ardittristan/VTTColorSettings/master/module.json)|:game_die:|pre-req for other modules
- * [keybind-lib](https://gitlab.com/fvtt-modules-lab/keybind-lib/-/jobs/artifacts/master/raw/module.json?job=build-release)|:game_die:|pre-req for other modules
- * [lib-captions](https://github.com/bekriebel/fvtt-module-lib-captions/releases/latest/download/module.json)|:game_die:|pre-req for other modules
- * [lib-wrapper](https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json)|:game_die:|pre-req for other modules
+ * [_chatcommands](https://github.com/League-of-Foundry-Developers/Chat-Commands-Lib/releases/latest/download/module.json)
+ * [colorsettings](https://raw.githubusercontent.com/ardittristan/VTTColorSettings/master/module.json)
+ * [keybind-lib](https://gitlab.com/fvtt-modules-lab/keybind-lib/-/jobs/artifacts/master/raw/module.json?job=build-release)
+ * [lib-captions](https://github.com/bekriebel/fvtt-module-lib-captions/releases/latest/download/module.json)
+ * [lib-wrapper](https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json)
  * [settings-extender](https://gitlab.com/foundry-azzurite/settings-extender/-/jobs/artifacts/master/raw/dist/settings-extender/module.json?job=build)
