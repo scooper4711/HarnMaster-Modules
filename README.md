@@ -50,7 +50,10 @@ These modules are situational. I enjoy them and feel that they add to my game. Y
 |[deprecated-modules](https://github.com/League-of-Foundry-Developers/FoundryVTT-Deprecated-Modules/releases/latest/download/module.json)|:book:|Keeps you aware of modules which you may be using which have become oboslete.|
 |[df-manual-rolls](https://dragonflagon.cafe/mods/man/df-manual-rolls)|:game_die:|Allows players to roll physical dice and input the results into the UI.|
 |[forien-custom-fonts](https://raw.githubusercontent.com/Forien/foundryvtt-forien-custom-fonts/master/module.json)|:book:|Allows you to add additional google fonts.|
+|[foundry-vtt-harn-styling](https://raw.githubusercontent.com/scooper4711/foundry-vtt-harn-styling/main/module.json)|:game_die:|Not sure what's Hârnic about it, but it's how I want my Journals to look. It used to include the Hârn fonts, but those are in the base system now. It's based heavily on another module I helped make for D&D journal styling|
 |[fxmaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster/-/raw/master/module.json)|:book:|Cool animated effects for e.g. spells.|
+|[journal-icon-numbers](https://gitlab.com/tiwato/journal_icon_numbers/raw/master/module.json)|:game_die: & :book:| allows you to make Journal Pins that look just like Hârn maps - you know, the yellow circle with the red outline? |
+|[backgroundless-pins](https://raw.githubusercontent.com/schultzcole/FVTT-Backgroundless-Pins/1.2.0/module.json)|:game_die: & :book:| Works with Journal Icon Numbers to allow you to make Journal Pins that look just like Hârn Maps.|
 |[monks-little-details](https://github.com/ironmonk88/monks-little-details/releases/latest/download/module.json)|:game_die:|Small QoL improvements in the UI.|
 |[monks-scene-navigation](https://github.com/ironmonk88/monks-scene-navigation/releases/latest/download/module.json)|:game_die:|easier/better scene navigation|
 |[mytab](https://raw.githubusercontent.com/Handyfon/myTab/master/module.json)|:game_die:|Let's you set the browser tab text and icon.|
