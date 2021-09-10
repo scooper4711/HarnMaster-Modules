@@ -66,6 +66,16 @@ These modules are situational. I enjoy them and feel that they add to my game. Y
 |[vtta-tokenizer](https://github.com/mrprimate/vtta-tokenizer/releases/download/latest/module.json)|:book:|Makes cool tokens for your actors.|
 |[webrtc-tweaks](https://github.com/bekriebel/fvtt-module-webrtc_tweaks/releases/latest/download/module.json)|:game_die:|Improvements to the A/V window options. I may be abandoning FVTT for A/V though, so this one will likely be removed from my list.|
 
+# Settings
+In case a setting isn't super obvious, or I want to make note of it for copying to other systems, I write them down here.
+
+## Automatic Journal Icon Numbers
+* forground color: #f10029ff
+* background color: #fff03dff
+* Font family: Noto Sans (not perfect, but ok)
+* icon style: circle
+* upload path: set it to images/mapkeys/pins in your world or the module you are working on
+* Custom RegEx: ``^\[([0-9]+)\]`` - matches Journal Entries which start with [x] and uses x as the pin number.
 
 # Prerequesite modules
 These modules are in my system because other modules require them.
