@@ -42,7 +42,7 @@ These modules are situational. I enjoy them and feel that they add to my game. Y
 |------|:------------------------------------------:|--------|
 |[EasyTable](https://raw.githubusercontent.com/BlitzKraig/fvtt-EasyTable/master/module.json)|:book:|Allows for easy creation of Rollable tables, e.g. from the rule book or reddit.|
 |[SocketSettings](https://raw.githubusercontent.com/BlitzKraig/fvtt-SocketSettings/master/module.json)|:game_die:|Allows you to help your players by pushing client settings to them.|
-|[all-goblins-have-names](https://raw.githubusercontent.com/jsabol/all-goblins-have-names/master/module.json)|:game_die:|Allows you to have unique names for your mass monsters/mobs. Your players can talk about targeting "Jim" instead of "Warrior 3"|
+|[all-goblins-have-names](https://raw.githubusercontent.com/toastygm/all-goblins-have-names/master/module.json)|:game_die:|Allows you to have unique names for your mass monsters/mobs. Your players can talk about targeting "Jim" instead of "Warrior 3"|
 |[animated-spell-effects](https://github.com/jackkerouac/animated-spell-effects/releases/latest/download/module.json)|:book:|Adds effects to your spell templates.|
 |[chat-portrait](https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-Chat-Portrait/master/src/module.json)|:game_die:|Puts the character's portait on every chat. Color codes the chat cards too.|
 |[custom-css](https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases/latest/download/module.json)|:book:|Allows you to customize the look and feel of FVTT|
